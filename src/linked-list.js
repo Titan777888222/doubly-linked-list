@@ -21,7 +21,7 @@ class LinkedList {
 
     reverse() {}
 
-    indexOf(data) {}
+    indexOf(data) {ооо}
 }
 
 module.exports = LinkedList;
